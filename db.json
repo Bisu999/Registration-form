@@ -41,6 +41,24 @@
       "name": "atulya sethi",
       "number": "1234567890",
       "password": "1234"
+    },
+    {
+      "id": "chiku",
+      "name": "bhisma",
+      "number": "1234567890",
+      "password": "1234"
+    },
+    {
+      "id": "abc",
+      "name": "abcd",
+      "number": "1234567890",
+      "password": "1234"
+    },
+    {
+      "id": "Bisu",
+      "name": "Biswajit",
+      "number": "9658755776",
+      "password": "123456"
     }
   ]
 }
