@@ -17,6 +17,30 @@
       "name": "Bijaya Debata",
       "number": "1126637999",
       "password": "12345"
+    },
+    {
+      "id": "Tiki",
+      "name": "Sujata",
+      "number": "1234567890",
+      "password": "12345"
+    },
+    {
+      "id": "sonu",
+      "name": "Salonee",
+      "number": "1234567890",
+      "password": "1234"
+    },
+    {
+      "id": "audi",
+      "name": "Rocky",
+      "number": "1234567890",
+      "password": "1234567"
+    },
+    {
+      "id": "atulya",
+      "name": "atulya sethi",
+      "number": "1234567890",
+      "password": "1234"
     }
   ]
 }
