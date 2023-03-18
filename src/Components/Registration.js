@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
+import React from "react";
 const Ragistration = () => {
     const[id,idchange]=useState("");
     const[name,namechange]=useState("");
