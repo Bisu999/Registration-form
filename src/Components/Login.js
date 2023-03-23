@@ -71,7 +71,7 @@ const Login = () => {
                     </div>
                     <div className="card-footer">
                     <button type="submit" className="btn btn-primary">Login</button>
-                    <Link className="btn btn-success" to={'/ragister'}>New User</Link>
+                    <Link className="btn btn-success" to={'/ragister'}>Sign Up</Link>
                     </div>
 
                 </form>

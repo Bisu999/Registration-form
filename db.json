@@ -5,72 +5,7 @@
       "name": "Biswajit",
       "number": "1234567890",
       "password": "1234567"
-    },
-    {
-      "id": "Abhi",
-      "name": "Abhijeet",
-      "number": "123456789",
-      "password": "1234"
-    },
-    {
-      "id": "Bijay",
-      "name": "Bijaya Debata",
-      "number": "1126637999",
-      "password": "12345"
-    },
-    {
-      "id": "Tiki",
-      "name": "Sujata",
-      "number": "1234567890",
-      "password": "12345"
-    },
-    {
-      "id": "sonu",
-      "name": "Salonee",
-      "number": "1234567890",
-      "password": "1234"
-    },
-    {
-      "id": "audi",
-      "name": "Rocky",
-      "number": "1234567890",
-      "password": "1234567"
-    },
-    {
-      "id": "atulya",
-      "name": "atulya sethi",
-      "number": "1234567890",
-      "password": "1234"
-    },
-    {
-      "id": "chiku",
-      "name": "bhisma",
-      "number": "1234567890",
-      "password": "1234"
-    },
-    {
-      "id": "abc",
-      "name": "abcd",
-      "number": "1234567890",
-      "password": "1234"
-    },
-    {
-      "id": "Bisu",
-      "name": "Biswajit",
-      "number": "9658755776",
-      "password": "123456"
-    },
-    {
-      "id": "Bisu123",
-      "name": "Biswajit Debata",
-      "number": "1234567890",
-      "password": "1234"
-    },
-    {
-      "id": "Abc ",
-      "name": "Biswajit Debata",
-      "number": "1234567890",
-      "password": "1234"
     }
+    
   ]
 }
