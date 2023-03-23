@@ -56,7 +56,7 @@ const Ragistration = () => {
                 <form className="container" onSubmit={handelsubmit}>
                     <div className="card">
                         <div className="card-header">
-                           <h1>User Ragister</h1> 
+                           <h1>User Register</h1> 
                         </div>
                         <div className="card-body">
                             <div className="row">

@@ -14,8 +14,8 @@ const Home = () => {
     return ( 
         <div className="row">
     <div className="header">
-        <Link to={'/'}>Home</Link>
-        <Link style={{float:'right',}} to={'/login'}>Logout</Link>
+        <Link style={{float:'left',color:'white',textDecoration:'none',fontFamily:'sans-serif',marginLeft:'5rem'}} to={'/'}>Home</Link>
+        <Link style={{float:'right', color:'white',textDecoration:'none',fontFamily:'sans-serif',marginRight:'5rem'}} to={'/login'}>Logout</Link>
       <h1 className="text-center">  Welcome to Cognisite Thechnology</h1>
       
     </div>
